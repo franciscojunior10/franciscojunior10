@@ -4,19 +4,19 @@
 
 Front-end Developer :man_technologist:
 
-## ➤ About me 
+## ➤ About me :man:
 
 - :earth_americas: I'm from Juazeiro do Norte - Ceara, Brasil
 - :man_technologist: I’m currently studying at [@Rocketseat](https://github.com/Rocketseat)
 - 💜 ReactJS/ Native, Node.js, Typescript and JavaScript
 
-## ➤ My stats
+## ➤ My stats :bar_chart:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscojunior10&show_icons=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojunior10&layout=compact"/>
 
-## ➤ Tools I use daily
+## ➤ Tools I use daily :hammer_and_wrench:
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
