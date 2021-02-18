@@ -2,8 +2,7 @@
 
 ## ➤ Hi there 👋, I'm Francisco Júnior :rocket:
 
-Front-end Developer :man_technologist:
-
+:man_technologist: Front-end Developer | :man_technologist: Systems Analyst - (UFPI)
 ## ➤ About me :man:
 
 - :man_technologist: I’m currently working on Front-end Developer at [@Brisanet Telecomunicações](https://www.brisanet.com.br/)
