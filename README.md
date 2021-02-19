@@ -12,9 +12,9 @@
 
 ## ➤ My stats :bar_chart:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscojunior10&show_icons=true&theme=algolia&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscojunior10&show_icons=true&theme=dark&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojunior10&show_icons=true&theme=algolia&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojunior10&show_icons=true&theme=dark&layout=compact"/>
 
 ## ➤ Tools I use daily :hammer_and_wrench:
 
