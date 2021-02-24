@@ -29,6 +29,9 @@
 <code><img height="30" src="https://camo.githubusercontent.com/ed73cf4fb9c6f3f6e1ae928094368a930945dffd30ca141022a7f1f1c76cbe93/68747470733a2f2f64617368626f6172642e736e617063726166742e696f2f736974655f6d656469612f6170706d656469612f323031382f30342f747769747465722d636172642d69636f6e2e706e67"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/33940202/108194926-f2ef4e80-70f5-11eb-9b95-eabb4bac6301.png"></code>
 
+## ➤ Visits on my profile :male_detective:
+<code><img height="30" src="https://profile-counter.glitch.me/franciscojunior10/count.svg"></code>
+
 ## ➤ Social media :mailbox_with_no_mail:
 
 [![Linkedin URL](https://img.shields.io/twitter/url?color=083B8D&label=Linkedin&logo=linkedin&style=for-the-badge&url=https://www.linkedin.com/in/franciscojunior10/)](https://www.linkedin.com/in/franciscojunior10/)
