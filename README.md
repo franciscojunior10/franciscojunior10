@@ -9,6 +9,7 @@
 - :earth_americas: I'm from Juazeiro do Norte - Ceara, Brasil
 - :man_technologist: I’m currently studying at [@Rocketseat](https://github.com/Rocketseat)
 - 💜 ReactJS/ Native, Node.js, Typescript and JavaScript
+- :memo: Studying clean architecture, tests for Front end: Cypress and storybook, Micro Front End
 
 ## ➤ My stats :bar_chart:
 
