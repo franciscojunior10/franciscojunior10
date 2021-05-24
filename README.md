@@ -6,7 +6,7 @@
 ## ➤ About me :man:
 
 - :man_technologist: I’m currently working on Front-end Developer at [@Brisanet Telecomunicações](https://www.brisanet.com.br/)
-- :earth_americas: I'm from Juazeiro do Norte - Ceara, Brasil
+- :earth_americas: I'm from Lagoa do Sítio - Piaui, Brazil and I'm currently working in Juazeiro do Norte - Ceara, Brazil
 - :man_technologist: I’m currently studying at [@Rocketseat](https://github.com/Rocketseat)
 - 💜 ReactJS/ Native, Node.js, Typescript and JavaScript
 - :memo: Studying clean architecture, tests for Front end: Cypress and storybook, Micro Front End
