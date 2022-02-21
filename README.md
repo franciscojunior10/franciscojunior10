@@ -5,7 +5,7 @@
 :man_technologist: Front-end Developer | :man_technologist: Systems Analyst - (UFPI)
 ## ➤ About me :man:
 
-- :man_technologist: I’m currently working on Front-end Developer at [@Framework Digital](https://www.frameworkdigital.com.br/)
+- :man_technologist: I’m currently working on Front-end Developer
 - :earth_americas: I'm from Lagoa do Sítio - Piaui
 - :man_technologist: I’m currently studying at [@Rocketseat](https://github.com/Rocketseat)
 - 💜 ReactJS/ Native, Node.js, Typescript and JavaScript
