@@ -36,7 +36,6 @@
 ## ➤ Social media :mailbox_with_no_mail:
 
 [![Linkedin URL](https://img.shields.io/twitter/url?color=083B8D&label=Linkedin&logo=linkedin&style=for-the-badge&url=https://www.linkedin.com/in/franciscojunior10/)](https://www.linkedin.com/in/franciscojunior10/)
-[![Instagram URL](https://img.shields.io/twitter/url?color=083B8D&label=Instagram&logo=instagram&logoColor=%23FFF&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com/junniorcarvallho)](https://www.instagram.com/junniorcarvallho)
 [![Personal Website URL](https://img.shields.io/twitter/url?color=083B8D&label=Website&logo=personal&logoColor=%23FFF&style=for-the-badge&url=https://franciscojunior10.netlify.app/)](https://franciscojunior10.netlify.app/)
 [![Rocketseat URL](https://img.shields.io/twitter/url?color=083B8D&label=Rocketseat&logo=rocketseat&logoColor=%23FFF&style=for-the-badge&url=https://app.rocketseat.com.br/me/franciscojunior10)](https://app.rocketseat.com.br/me/franciscojunior10)
 </samp>
